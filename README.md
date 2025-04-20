@@ -1,1 +1,1 @@
-Educational project with JUnit tests.
+Educational project with basic OOP principles and JUnit tests.
